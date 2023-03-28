@@ -10,10 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![MarcosN7's GitHub stats](https://github-readme-stats.vercel.app/api?MarcosN7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![MarcosN7 GitHub stats](https://github-readme-stats.vercel.app/api?MarcosN7=MarcosN7a&count_private=true)
-[![MarcosN7 GitHub stats](https://github-readme-stats.vercel.app/api?MarcosN7=MarcosN7&show_icons=true)
-[![MarcosN7 GitHub stats](https://github-readme-stats.vercel.app/api?MarcosN7=MarcosN7&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarcosN7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
