@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 👯 I’m looking to collaborate on Webdevelopment.
-- 🤔 I’m looking for help with JavaScrit🙃.
+- 🤔 I’m looking for help with JavaScript🙃.
 - 💬 Ask me about Anything, i might not have an answer but i will FIND IT.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Used to breakdance 😅😅.
